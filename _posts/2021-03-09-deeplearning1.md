@@ -5,7 +5,6 @@ categories:
 tags: 
 - Deep Learning
 use_math: true
-comments: true
 ---  
 
 # 단층 퍼셉트론 신경망 구조   
