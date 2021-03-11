@@ -165,3 +165,8 @@ $$
 
 
 
+<br/><br/><br/>
+
+다음은 전복의 고리 수 추정 예제를 실습한 코드이다. 
+
+[실습 코드](https://github.com/Tin1209/Study-Pytorch/blob/main/Python%20DeepLearning/abalone.ipynb)
